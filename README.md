@@ -1,2 +1,2 @@
 # Portfolio
-This Folder has my work as a Data Scientiest
+This Folder has my work as a Data Scientist
